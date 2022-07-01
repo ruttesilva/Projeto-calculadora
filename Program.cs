@@ -3,7 +3,7 @@
 do
 {
     ExibirMenu();
-    Console.Write("Digite a opção desejada.: ");
+    Console.Write("\nDigite a opção desejada.: ");
     opcaoDesejada = Console.ReadLine()!;
     Console.WriteLine();
 
@@ -38,7 +38,7 @@ do
             break;
 
         case "0":
-            Console.WriteLine("Obrigado por utilizar o programa!");
+            Console.WriteLine("\nObrigado por utilizar o programa!");
             Environment.Exit(-1);
             break;
 
@@ -60,8 +60,8 @@ static void op1()
 {
     double soma, somaA, somaB;
 
-    Console.WriteLine("--Soma--");
-    Console.WriteLine("Digite os valores para A + B: ");
+    Console.WriteLine("\n-----Soma-----");
+    Console.WriteLine("\nDigite os valores para A + B: ");
 
     Console.Write("A = ");
     somaA = Convert.ToDouble(Console.ReadLine()!);
@@ -81,7 +81,7 @@ static void op2()
 {
     double subtracao, subtracaoA, subtracaoB;
 
-    Console.WriteLine("--Subtração--");
+    Console.WriteLine("\n-----Subtração-----");
 
     Console.WriteLine("Digite os valores para A - B: ");
 
@@ -103,7 +103,7 @@ static void op3()
 {
     double multiplicacao, multiplicacaoA, multiplicacaoB;
 
-    Console.WriteLine("--Multiplicação--");
+    Console.WriteLine("-----Multiplicação-----");
 
     Console.WriteLine("Digite os valores para A x B: ");
 
@@ -125,7 +125,7 @@ static void op4()
 {
     double divisao, divisaoA, divisaoB;
 
-    Console.WriteLine("\n--Divisão--");
+    Console.WriteLine("\n-----Divisão-----");
 
     Console.WriteLine("Digite os valores para A / B: ");
 
@@ -147,7 +147,7 @@ static void op5()
 {
     double base_, expoente, potencia;
 
-    Console.WriteLine("\n--Eponenciação--");
+    Console.WriteLine("\n-----Exponenciação-----");
 
     Console.WriteLine("\nDigite os valores para base e expoente: ");
 
@@ -169,7 +169,7 @@ static void op6()
 {
     double numero, radiciacao;
 
-    Console.WriteLine("\nVocê selecionou radiciação");
+    Console.WriteLine("\n-----Radiciação-----");
 
     Console.Write("\nDigite um número:");
     numero = Convert.ToDouble(Console.ReadLine()!);
@@ -186,7 +186,7 @@ static void op7()
 {
     double a, b, c, delta, x1, x2;
 
-    Console.WriteLine("\n-- Bhaskara --");
+    Console.WriteLine("\n----- Bhaskara -----");
 
     Console.Write("(a): ");
     a = Convert.ToDouble(Console.ReadLine());
