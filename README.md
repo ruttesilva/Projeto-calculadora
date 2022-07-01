@@ -17,11 +17,13 @@ O software é uma calculadora que contém:
 
 ![Tela do programa](tela.png)
 
+[Site](https://ruttesilva.github.io/Projeto-calculadora/)
+
 ## Download
 
 Baixe o arquivo abaixo. Descompacte na pasta desejada.
 
-[Download do arquivo .zip](dist/ProjetoCalculadora.zip)
+[Download do arquivo .zip](https://github.com/ruttesilva/Projeto-calculadora/raw/main/dist/ProjetoCalculadora.zip)
 
 
 ## Sobre
