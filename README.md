@@ -7,14 +7,30 @@ O projeto foi criado com o propósito de demonstrar o conhecimento adquirido ao 
 
 O software é uma calculadora que contém:
 
-As quatro operações aritméticas básicas (soma, subtração, multiplicação e divisão);
+- As quatro operações aritméticas básicas (soma, subtração, multiplicação e divisão);
 
-Exponenciação e radiciação;
+- Exponenciação e radiciação;
 
-Bhaskara.
+- Bhaskara.
+
+## Programa 
+
+![Tela do programa](tela.png)
 
 ## Download
 
-Para baixar a calculadora clique aqui.
+Baixe o arquivo abaixo. Descompacte na pasta desejada.
 
-## Agradecimentos 
+[Download do arquivo .zip](dist/ProjetoCalculadora.zip)
+
+
+## Sobre
+
+Me chamo Rutte, tenho 16 anos e esse programa foi realizado como projeto final da disciplina de programação em linguagem c#, no primeiro módulo de Informática da ETEC Adolpho Berezin :)
+
+
+## Agradecimentos
+
+- [ETEC Adolpho Berezin](https://eteab.com.br/cms/)
+- [Ermogenes Palácio](https://github.com/ermogenes)
+- [Diego Neri](https://github.com/diegoneri)
